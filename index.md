@@ -12,20 +12,20 @@ This is my own Cardano Stake Pool. I am a software developer, who believes in th
 ### Current Cardano Node Version - 1.29.0
 ### Current Node Configuration
 * Block Producer 
- * CPU: 8 core @3.0GHz
- * RAM: 16GB DDR4
- * SSD: 256GB NVMe
- * HDD: 1TB HDD
+  * CPU: 8 core @3.0GHz
+  * RAM: 16GB DDR4
+  * SSD: 256GB NVMe
+  * HDD: 1TB HDD
 * Relay 1 
- * CPU: 4 core @3.0GHz
- * RAM: 8GB DDR4
- * SSD: 160GB NVMe
- * HDD: 512GB HDD
+  * CPU: 4 core @3.0GHz
+  * RAM: 8GB DDR4
+  * SSD: 160GB NVMe
+  * HDD: 512GB HDD
 * Relay 2 
- * CPU: 4 core @3.0GHz
- * RAM: 8GB DDR4
- * SSD: 160GB NVMe
- * HDD: 512GB HDD   
+  * CPU: 4 core @3.0GHz
+  * RAM: 8GB DDR4
+  * SSD: 160GB NVMe
+  * HDD: 512GB HDD   
 
 ## What I offer ?
 * Constant monitoring of the node
